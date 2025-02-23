@@ -1,19 +1,53 @@
-<h1 align="center">Hi 👋, I'm Philippe</h1>
-<h3 align="center">A full-stack developer in training from France</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phlllppe&label=Profile%20views&color=0e75b6&style=flat" alt="phlllppe" /> </p>
-
-- 🌱 I’m currently learning **MySql / MariaD...**
-
-- 👨‍💻 All of my projects are available at [soon](soon)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/philippe-gaulin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philippe-gaulin" height="30" width="40" /></a>
+<!-- Bannière -->
+<p align="center">
+  <img src="https://i.imgur.com/PGh5AtC.gif" width="450">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">Bonjour 👋, je suis <a href="#">Philippe</a></h1>
+<p align="center"><strong>Bienvenue sur mon profil GitHub ! ✨</strong></p>
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phlllppe&show_icons=true&locale=en&layout=compact" alt="phlllppe" /></p>
+## 🔥 **À propos de moi**
+> 💻 Développeur web & web mobile en formation.  
+> 📝 Passionné par le développement web et l'hébergement web.  
+> 🎶 J'adore la musique, la nature et les jeux vidéo.  
+> 👨‍💻 J'aime créer des outils pratiques et des interfaces modernes.  
+
+---
+
+## 🚀 **Mes Projets**
+📌 **Quelques réalisations :**
+- 🌐 **Portfolio personnel** - Un site pour présenter mes compétences et projets.
+- 👥 **Gestion de stock pour un bar** - Un outil pour suivre les inventaires.
+- 🎮 **Serveurs Minecraft** - Création et gestion de serveurs avec des plugins en JavaScript.
+- 🌐 **SAS en hébergement web** - Fourniture de solutions web et hébergement.
+
+---
+
+## 📊 **Statistiques GitHub**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHlLlPPE&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHlLlPPE&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🛠️ **Langages & Outils**
+<h3 align="center">👨‍💻 Programmation</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,sass,react,ts,electron,mysql,prisma,tailwind,bash" />
+</p>
+
+<h3 align="center">🛠️ Outils</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,docker,linux,debian,figma" />
+</p>
+
+<h3 align="center">💽 Hébergement & Autres Technologies</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apache,nginx,nodejs,netlify" />
+</p>
+
+---
 
