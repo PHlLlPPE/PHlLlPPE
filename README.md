@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://i.imgur.com/PGh5AtC.gif" width="450">
+  <img src="https://i.imgur.com/PGh5AtC.gif" width="450" alt="Bannière Philippe">
 </p>
 
 <h1 align="center">Bonjour 👋, je suis <a href="https://philippe-gaulin.dev/">Philippe</a></h1>
@@ -8,46 +8,61 @@
 
 ---
 
-## 🔥 **À propos de moi**
+## 🔥 À propos de moi
+
 > 💻 Développeur web & web mobile en formation.  
-> 📝 Passionné par le développement web et l'hébergement web.  
-> 🎶 J'adore la musique, la nature et les jeux vidéo.  
-> 👨‍💻 J'aime créer des outils pratiques et des interfaces modernes.  
+> 🌍 Passionné par le développement, l'hébergement web et l'open source.  
+> 👨‍💻 Fondateur d’une SAS spécialisée dans l’hébergement web et les solutions numériques.  
+> ⚡ J’aime concevoir des outils utiles, modernes et accessibles.
 
 ---
 
-## 🚀 **Mes Projets**
-📌 **Quelques réalisations :**
-- 🌐 **Portfolio personnel** - Un site pour présenter mes compétences et projets.
-- 👥 **Gestion de stock pour un bar** - Un outil pour suivre les inventaires.
-- 🎮 **Serveurs Minecraft** - Création et gestion de serveurs avec des plugins en JavaScript.
-- 🌐 **SAS en hébergement web** - Fourniture de solutions web et hébergement.
+## 🚀 Projets récents
+
+📌 **Quelques réalisations notables :**
+
+- 🎨 **Portfolio personnel** — Présentation de mes compétences, projets et parcours.
+- 🍻 **Le Triolet** — Site web complet pour un bar avec back-office d'administration (Next.js, Prisma).
+- 🧩 **Serveurs Minecraft** — Gestion et personnalisation via plugins JavaScript.
+- 🖥️ **SAS Hébergement Web** — Déploiement de solutions web sur VPS avec Docker et Coolify.
 
 ---
 
-## 📊 **Statistiques GitHub**
+## 📊 Statistiques GitHub
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHlLlPPE&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHlLlPPE&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHlLlPPE&theme=radical&show_icons=true&cache_seconds=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHlLlPPE&layout=compact&theme=radical&cache_seconds=1" />
 </p>
 
 ---
 
-## 🛠️ **Langages & Outils**
-<h3 align="center">👨‍💻 Programmation</h3>
+## 🛠️ Stack & Outils
+
+<h3 align="center">👨‍💻 Langages & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,sass,react,ts,electron,mysql,prisma,tailwind,bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,php,mysql,prisma,nodejs,tailwind,electron" />
 </p>
 
-<h3 align="center">🛠️ Outils</h3>
+<h3 align="center">🛠️ Outils de Développement</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,docker,linux,debian,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker,figma,linux,debian,bash" />
 </p>
 
-<h3 align="center">💽 Hébergement & Autres Technologies</h3>
+<h3 align="center">☁️ Déploiement & Services</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apache,nginx,nodejs,netlify" />
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,nginx,apache" />
 </p>
 
 ---
 
+## 📫 Me contacter
+
+> 🔗 Site web : [philippe-gaulin.dev](https://philippe-gaulin.dev)  
+
+---
+
+<p align="center">
+  Merci d’avoir visité mon profil 🙏 <br/>
+  N’hésitez pas à explorer mes projets et à me contacter pour échanger !
+</p>
