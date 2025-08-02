@@ -10,7 +10,7 @@
 
 ## 🔥 À propos de moi
 
-> 💻 Développeur web & web mobile en formation.  
+> 💻 Développeur web & web mobile.  
 > 🌍 Passionné par le développement, l'hébergement web et l'open source.  
 > 👨‍💻 Fondateur d’une SAS spécialisée dans l’hébergement web et les solutions numériques.  
 > ⚡ J’aime concevoir des outils utiles, modernes et accessibles.
