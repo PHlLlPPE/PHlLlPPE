@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/PGh5AtC.gif" width="450" alt="Bannière Philippe">
 </p>
 
-<h1 align="center">Bonjour 👋, je suis <a target="_blank" href="https://portofolio.philippe-gaulin.dev/">Philippe</a></h1>
+<h1 align="center">Bonjour 👋, je suis <a target="_blank" href="https://portfolio.philippe-gaulin.dev/">Philippe</a></h1>
 <p align="center"><strong>Bienvenue sur mon profil GitHub ! ✨</strong></p>
 
 ---
