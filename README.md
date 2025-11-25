@@ -63,7 +63,7 @@
 ## 📫 Me contacter
 
 📧 Email pro : **contact@philippe-gaulin.dev**  
-🌐 [Portfolio](#) *(en cours de réalisation)*  
+🌐 [Portfolio](https://philippe-gaulin.dev/) *(en cours de réalisation)*  
 
 ---
 
